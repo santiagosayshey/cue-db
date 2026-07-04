@@ -13,3 +13,12 @@
     - source: http
       url: https://theposterdb.com/api/assets/95010
       filename: poster.jpg
+"224372":
+  title: A Knight of the Seven Kingdoms
+  assets:
+    - source: youtube
+      url: https://www.youtube.com/watch?v=_2V1F6N8Mx0
+      filename: theme.mp3
+    - source: http
+      url: https://theposterdb.com/api/assets/693676
+      filename: poster.jpg
