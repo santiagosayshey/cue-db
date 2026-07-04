@@ -1,11 +1,15 @@
-# Fast and Furious franchise
 "584":
   title: 2 Fast 2 Furious
-  theme:
-    source: youtube
-    url: https://www.youtube.com/watch?v=YvHbvnIttec
+  assets:
+    - source: youtube
+      url: https://www.youtube.com/watch?v=YvHbvnIttec
+      filename: theme.mp3
 "398978":
   title: The Irishman
-  theme:
-    source: youtube
-    url: https://www.youtube.com/watch?v=VGI04ICfquQ
+  assets:
+    - source: youtube
+      url: https://www.youtube.com/watch?v=VGI04ICfquQ
+      filename: theme.mp3
+    - source: http
+      url: https://theposterdb.com/api/assets/95010
+      filename: poster.jpg
