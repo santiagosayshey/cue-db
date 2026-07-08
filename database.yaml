@@ -35,3 +35,38 @@
     - source: youtube
       url: https://www.youtube.com/watch?v=fFYMsGj3ZhI
       filename: theme.mp3
+
+"8966":
+  title: Twilight
+  assets:
+    - source: http
+      url: https://theposterdb.com/api/assets/83889
+      filename: poster.jpg
+
+"18239":
+  title: The Twilight Saga: New Moon
+  assets:
+    - source: http
+      url: https://theposterdb.com/api/assets/83890
+      filename: poster.jpg
+      
+"24021":
+  title: The Twilight Saga: Eclipse
+  assets:
+    - source: http
+      url: https://theposterdb.com/api/assets/83891
+      filename: poster.jpg
+
+"50619":
+  title: The Twilight Saga: Breaking Dawn - Part 1
+  assets:
+    - source: http
+      url: https://theposterdb.com/api/assets/83892
+      filename: poster.jpg
+
+"50620":
+  title: The Twilight Saga: Breaking Dawn - Part 2
+  assets:
+    - source: http
+      url: https://theposterdb.com/api/assets/83893
+      filename: poster.jpg
