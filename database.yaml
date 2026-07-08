@@ -27,7 +27,7 @@
   assets:
     - source: youtube
       url: https://www.youtube.com/watch?v=4B3gCHbDu94
-      filenmae: theme.mp3
+      filename: theme.mp3
 
 "929590":
   title: Civil War
@@ -44,14 +44,14 @@
       filename: poster.jpg
 
 "18239":
-  title: The Twilight Saga: New Moon
+  title: "The Twilight Saga: New Moon"
   assets:
     - source: http
       url: https://theposterdb.com/api/assets/83890
       filename: poster.jpg
       
 "24021":
-  title: The Twilight Saga: Eclipse
+  title: "The Twilight Saga: Eclipse"
   assets:
     - source: http
       url: https://theposterdb.com/api/assets/83891
