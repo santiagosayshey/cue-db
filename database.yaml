@@ -1,3 +1,13 @@
+"264660":
+  title: Ex Machina
+  assets:
+    - source: http
+      url: https://theposterdb.com/api/assets/13453
+      filename: poster.jpg
+    - source: youtube
+      url: https://www.youtube.com/watch?v=_qEPQHzvp6I
+      filename: theme.mp3
+
 "584":
   title: 2 Fast 2 Furious
   assets:
